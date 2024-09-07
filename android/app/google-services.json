@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1013387253196",
+    "project_id": "soundofmeme-9d51f",
+    "storage_bucket": "soundofmeme-9d51f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013387253196:android:25c1e73d5ec37174467969",
+        "android_client_info": {
+          "package_name": "com.ramya.love_magic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3bWMISLSfMctxxIAaMCUIhG4Vtu2rqOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
